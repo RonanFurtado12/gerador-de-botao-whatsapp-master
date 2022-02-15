@@ -1,0 +1,22 @@
+{
+    "Generator": {
+        "Nome": [
+            {
+                "id": 1,
+                "tipo": null
+            }
+        ],
+        "Email": [
+            {
+                "id": 1,
+                "tipo": null
+            }
+        ],
+        "Telefone": [
+            {
+                "id": 1,
+                "tipo": null
+            }
+        ]
+    }
+}
